@@ -2,6 +2,7 @@
 <div style="margin-top:1000px;">
 <img align="right" alt="Coding" width="250" height="150" object-position="50px" src="https://www.lambdatest.com/resources/images/news24.gif">
 </div>
+
 ## About Me:
 Hello! My name is Jericho Mata and I love building things. 
 <br>While enrolled at UC Davis, majoring in Computer Science, 
