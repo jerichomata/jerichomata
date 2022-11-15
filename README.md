@@ -1,4 +1,4 @@
-[![MasterHead] (github-header-image.png)]
+![HEADER!](github-header-image.png)
 
 ## About Me:
 Hello! My name is Jericho Mata and I love building things. 
