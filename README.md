@@ -1,5 +1,6 @@
 ![HEADER!](github-header-image.png)
 
+<div>
 ## About Me:
 Hello! My name is Jericho Mata and I love building things. 
 <br>While enrolled at UC Davis, majoring in Computer Science, 
@@ -9,6 +10,7 @@ Hello! My name is Jericho Mata and I love building things.
 <br>open to collaborating on new projects so please reach out.
 
 <img align="right" alt="Coding" width="300" height="200" object-position="50px" src="https://www.lambdatest.com/resources/images/news24.gif">
+</div>
 
 ## Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
