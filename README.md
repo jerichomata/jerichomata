@@ -10,7 +10,8 @@ Hello! My name is Jericho Mata and I love building things.
 <br>hackathon project where my group placed 1st. I'm always 
 <br>open to collaborating on new projects so please reach out.
 
-<img align="top-right" alt="Coding" width="300" height="200" object-position="50px" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="right" alt="Coding" width="300" height="200" object-position="50px" src="https://www.lambdatest.com/resources/images/news24.gif">
+ 
 </div>
 
 ## Languages:
