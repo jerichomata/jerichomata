@@ -1,5 +1,5 @@
 ![HEADER!](github-header-image.png)
-<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=790b761114b6024fc792155db8ecc2fcb06af56793d47cde&rid=giphy.gif&ct=g">
 
 ## About Me:
 Hello! My name is Jericho Mata and I love building things. 
