@@ -2,17 +2,19 @@
 
 ## About Me:
 Hello! My name is Jericho Mata and I love building things. 
-<br>While enrolled at UC Davis, majoring in Computer Science, 
-<br>I became proficient in full-stack development. I was also 
-<br>involved in ML and Game Dev projects as well as a FinTech 
-<br>hackathon project where my group placed 1st. I'm always 
-<br>open to collaborating on new projects so please reach out.
+
 
 <div style="float:right">
 
 <img align="right" alt="Coding" width="300" height="200" src="https://www.lambdatest.com/resources/images/news24.gif">
  
 </div>
+
+<br>While enrolled at UC Davis, majoring in Computer Science, 
+<br>I became proficient in full-stack development. I was also 
+<br>involved in ML and Game Dev projects as well as a FinTech 
+<br>hackathon project where my group placed 1st. I'm always 
+<br>open to collaborating on new projects so please reach out.
 
 ## Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
