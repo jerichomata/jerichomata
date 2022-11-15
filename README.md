@@ -1,6 +1,6 @@
 ![HEADER!](github-header-image.png)
 <div style="margin-top:1500px;">
-<img align="right" alt="Coding" width="250" height="150" object-position="50px" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="right" alt="Coding" width="300" height="200" object-position="50px" src="https://www.lambdatest.com/resources/images/news24.gif">
 </div>
 
 ## About Me:
