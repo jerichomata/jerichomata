@@ -2,7 +2,7 @@
 
 ## About Me:
 
-<img align="right" alt="Coding" width="300" height="200" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="right" alt="Coding" width="200" height="150" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 Hello! My name is Jericho Mata and I love building things. 
 <br>While enrolled at UC Davis, majoring in Computer Science, 
